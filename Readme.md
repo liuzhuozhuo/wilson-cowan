@@ -1,5 +1,7 @@
 # Wilson-Cowan equations
 
+Collaborative project with [Antonio Marín Carballo](https://github.com/MarinCarballo 'GitHub')
+
 ## Abstract
 
 The Wilson–Cowan model describes the dynamics of interacting excitatory and inhibitory neuron populations. In this study, we explore the fundamental behavior of this model, beginning with a simplified single-region system. Through linear stability analysis and bifurcation theory, we identify distinct dynamical regimes (quiescent, oscillatory, and bistable) and classify their transitions via Hopf, Pitchfork, Saddle-Node, and Takens–Bogdanov bifurcations.
