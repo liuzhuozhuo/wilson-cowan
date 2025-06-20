@@ -16,4 +16,5 @@ Additionally, we consider stochastic extensions of the Wilson–Cowan equations 
 This project uses [ChatGPT](https://openai.com/chatgpt) (GPT-4o and GPT o4-mini-high) to assist in the following aspects:
 - Function generation in the code 
 - Debugging and optimization
+
 All AI-generated content was reviewed and verified before inclusion.
